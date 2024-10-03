@@ -1,0 +1,33 @@
+/* CSS styles for the application */
+
+body {
+    font-family: cursive, sans-serif;
+}
+
+div {
+    background-color: turquoise;
+}
+
+h1 {
+    color: #333;
+}
+
+h3 {
+    text-align: center;
+}
+
+#plot {
+    width: 80%;
+    margin: 0 auto;
+}
+
+#scatterpolar-plot {
+    width: 99%;
+    margin: inherit;
+}
+
+#toggle-button{
+    color: darkblue;
+    position: absolute;
+    background: mintcream;
+}
